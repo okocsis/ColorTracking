@@ -17,6 +17,7 @@
     ColorTrackingViewController *colorTrackingViewController;
 }
 
+
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 @property (nonatomic, retain) IBOutlet ColorTrackingViewController *viewController;
 
